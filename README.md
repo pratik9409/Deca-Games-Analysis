@@ -1,5 +1,7 @@
 # Deca Games Google Play Store Analysis
 
+## [Dashboard](https://public.tableau.com/app/profile/pratik.arvind.abnave/viz/DecaGamesAnalysisDashbaord/Dashboard1)
+
 ![deca](https://github.com/user-attachments/assets/df038073-a2a9-4343-839f-a7af925cd590)
 
 
